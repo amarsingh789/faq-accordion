@@ -8,8 +8,8 @@
 A simple and responsive FAQ accordion built with **HTML**, **Tailwind CSS**, and **JavaScript**.  
 This is a solution to the [Frontend Mentor FAQ Accordion Challenge](https://www.frontendmentor.io).
 
-<!-- ## 🚀 Demo
-Live Site URL: [https://your-username.github.io/faq-accordion/](https://your-username.github.io/faq-accordion/) -->
+## 🚀 Demo
+Live Site URL: [https://amarsingh789.github.io/faq-accordion/](https://amarsingh789.github.io/faq-accordion/)
 
 ## 📸 Preview
 ![Design preview for the FAQ accordion coding challenge](preview.jpg)
