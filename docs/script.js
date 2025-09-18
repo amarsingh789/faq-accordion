@@ -11,12 +11,12 @@ questions.forEach(q => {
         //sab answer close karo & icon reset karo
         document.querySelectorAll(".answer").forEach((ans) => ans.classList.add("hidden"));
         document.querySelectorAll(".question img").forEach((icon) => {
-            icon.src = "/assets/images/icon-plus.svg"
+            icon.src = "assets/images/icon-plus.svg"
         });
         //agar already open nhi tha to isko open karo
         if(!isOpen){
             answer.classList.remove("hidden");
-            icon.src = "/assets/images/icon-minus.svg";
+            icon.src = "assets/images/icon-minus.svg";
         }
     });
 })
